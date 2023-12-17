@@ -46,4 +46,3 @@ Z = En .* cos(THETA);
 figure(2)
 mesh(X,Y,Z)
 title('General Length Dipole - 3D');
-
